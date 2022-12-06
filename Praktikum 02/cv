@@ -1,0 +1,44 @@
+<!DOCTYPE html>
+<html>
+    <head>
+        <title>CV Maulana Lutfhan Hamam</title>
+    </head>
+        <body style="background-color:#E0FFFF ;">
+    <body>
+       
+        <H1 ALIGN= "center">CV Maulana Lutfhan Hamam</h1>
+    </body>
+
+    </head>
+    <body>
+        gambR<img src="" width="" alt="">
+    <hr>
+    <body>
+        <p ALIGN="center">Perkenalkan nama saya Maulana Lutfhaan Hamam seorang freshgraduate lulusan sistem informasi di Sekolah tinggi Teknologi Terpadu Nurul Fikri</p>
+    
+    <H1>PENDIDIKAN</H1>
+    <ol type="A">
+        <li>SMK PEMBANGUNAN BOGOR</li>
+        <li>STT TERPADU NURUL FIKRI</li>
+    </ol>
+    <hr>
+    
+    <h1>BAHASA</h1>
+    <ul type="square">
+        <li><span style="color:red">Indonesia</span></li>
+        <li>English</li>
+        <li>Japannese</li>
+    </ul>
+    <hr>
+
+    <h3> Organisasi </h3>
+    <dl>
+        <dt> Virtual Education Academy</dt>
+        <dd> Organisasi bergerak dibidang pendidikan dengan berbagai macam pelatihan gratis
+        </dd>
+    </dl>
+
+    
+    </body>
+</html>
+cari warna di color tool
