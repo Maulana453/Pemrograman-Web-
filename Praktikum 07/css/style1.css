@@ -1,0 +1,13 @@
+.container {
+    background: rgb(9,172,250);
+    background: linear-gradient(0deg, rgba(9,172,250,1) 0%, rgba(92,247,245,1) 100%);
+    border: 2px solid black;
+    text-align: center;
+
+}
+img {
+    width: 20%;
+    margin: 10px 25px;
+    border: 2px solid black;
+    border-radius: 10px;
+}
