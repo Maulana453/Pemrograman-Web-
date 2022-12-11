@@ -1,0 +1,21 @@
+fieldset {
+    background-color: rgb(158, 235, 235);
+}
+h1 {
+    text-align: center;
+}
+
+a {
+    text-decoration: none;
+    color: black;
+}
+table {
+    border: 1px solid black;
+}
+
+.tabel {
+    display: flex;
+    justify-content: center;
+    width: 100%;
+     
+}
